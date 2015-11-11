@@ -1,5 +1,5 @@
 %{"bbmustache": {:hex, :bbmustache, "1.0.3"},
-  "comeonin": {:hex, :comeonin, "1.2.2"},
+  "comeonin": {:hex, :comeonin, "1.5.0"},
   "conform": {:hex, :conform, "0.17.0"},
   "cowboy": {:hex, :cowboy, "1.0.3"},
   "cowlib": {:hex, :cowlib, "1.0.1"},
